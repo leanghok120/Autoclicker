@@ -1,4 +1,4 @@
-module autoclicker-go
+module github.com/leanghok120/Autoclicker
 
 go 1.22.3
 
